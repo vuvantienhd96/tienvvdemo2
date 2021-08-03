@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tienvvdemo2/static/css/main.25847bb7.chunk.css",
+    "main.js": "/tienvvdemo2/static/js/main.1a390d73.chunk.js",
+    "main.js.map": "/tienvvdemo2/static/js/main.1a390d73.chunk.js.map",
+    "runtime-main.js": "/tienvvdemo2/static/js/runtime-main.5732c2b3.js",
+    "runtime-main.js.map": "/tienvvdemo2/static/js/runtime-main.5732c2b3.js.map",
+    "static/js/2.2f5afe02.chunk.js": "/tienvvdemo2/static/js/2.2f5afe02.chunk.js",
+    "static/js/2.2f5afe02.chunk.js.map": "/tienvvdemo2/static/js/2.2f5afe02.chunk.js.map",
+    "static/js/3.6a898281.chunk.js": "/tienvvdemo2/static/js/3.6a898281.chunk.js",
+    "static/js/3.6a898281.chunk.js.map": "/tienvvdemo2/static/js/3.6a898281.chunk.js.map",
+    "index.html": "/tienvvdemo2/index.html",
+    "static/css/main.25847bb7.chunk.css.map": "/tienvvdemo2/static/css/main.25847bb7.chunk.css.map",
+    "static/js/2.2f5afe02.chunk.js.LICENSE.txt": "/tienvvdemo2/static/js/2.2f5afe02.chunk.js.LICENSE.txt",
+    "static/media/visibility_black_24dp.463f70d0.svg": "/tienvvdemo2/static/media/visibility_black_24dp.463f70d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5732c2b3.js",
+    "static/js/2.2f5afe02.chunk.js",
+    "static/css/main.25847bb7.chunk.css",
+    "static/js/main.1a390d73.chunk.js"
+  ]
+}
