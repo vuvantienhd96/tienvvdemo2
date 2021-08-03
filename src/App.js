@@ -24,7 +24,8 @@ function App() {
   return (
     <React.Fragment>
         <Provider>
-          <Router basename={process.env.PUBLIC_URL}>
+        {/* basename={process.env.PUBLIC_URL} */}
+          <Router>
             <Header branding='Contact Manager'/>
             <div className="container">
               {/* <AddContact /> */}
